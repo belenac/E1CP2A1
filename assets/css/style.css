@@ -1,0 +1,69 @@
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'El Rio Lobo';
+}
+.bg-rojo {
+	background-color: #A62038;
+}
+.bg-celeste {
+	background-color: #008ABC;
+}
+.center {
+	text-align: center;
+}
+.container {
+	max-width: 760px;
+	width: 100%;
+	margin: 0 auto;
+}
+.seccion {
+	padding: 3em 0;
+}
+.seccion2 {
+	padding: 2em 0;
+}
+.seccion.center h1 {
+	color: #F6AE4C;
+}
+.seccion.center p {
+	color: white;
+}
+img.img-100 {
+	width: 100%;
+}
+.bg-img {
+	background-image: url(../images/cuzco2.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.info {
+	text-align: right;
+}
+.info h2 {
+	color: #F6AE4C;
+}
+.info p {
+	color: white;
+}
+.space {
+	padding: 4em;
+}
+.precios .titulo-precio {
+	font-size: 3em;
+	margin-bottom: .5em;
+}
+.precios h3 {
+	font-size: 2.5em;
+	margin-bottom: .2em;
+}
+.precios h3 sup {
+	margin-left: 1em;
+}
